@@ -13,6 +13,8 @@ buildscript {
 }
 
 allprojects {
+    group = 'com.etiennelawlor.quickreturn'
+
     repositories {
         mavenCentral()
     }
